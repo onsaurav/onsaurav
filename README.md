@@ -37,7 +37,7 @@ I’m a passionate software engineer with over 15 years of experience in designi
 | Project                             | Tech Stack                                      | Role                          |
 |-------------------------------------|--------------------------------------------------|-------------------------------|
 | **User Management Platform**        | SharePoint, C#, AngularJS, SQL Server           | Team Lead, Solution Architect |
-| **BrandShare (Used by DELL)**       | ASP.NET, Crystal Reports, SharePoint            | Lead Developer                |
+| **BrandShare (Used by DELL)**       | ASP.NET, Crystal Reports, SharePoint            | Senior System Developer                |
 | **HotelTrip CMS**                   | MVC, Razor, Entity Framework                    | Team Lead, Analyst            |
 | **Business Roots (ERP)**            | ASP.NET Core, Angular, Web API                  | Full-Stack Developer          |
 | **Ration System (BD Police)**       | WCF, C#, SQL Server, Crystal Reports            | Architect, Developer          |
