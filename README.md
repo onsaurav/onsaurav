@@ -69,7 +69,7 @@ I’m a passionate software engineer with over 15 years of experience in designi
 ## 🧠 Certifications
 
 - ✅ Azure AI Engineer Associate (AI-102)  
-- ✅ MCSD: Azure Data Scientist Associate (DP-100) – 2025  
+- ✅ Azure Data Scientist Associate (DP-100) – 2025  
 - ✅ MCSD: Web Applications & App Builder  
 - ✅ MCPS: Microsoft Certified Professional  
 - ✅ HTML5 with JavaScript and CSS3 (Microsoft Exam)
