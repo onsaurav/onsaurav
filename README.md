@@ -8,7 +8,7 @@
 
 I’m a passionate software engineer with over 15 years of experience in designing and developing robust enterprise solutions using Microsoft technologies and modern JavaScript frameworks. My work spans across product architecture, project leadership, AI integrations, and business-critical web applications.
 
-- 🧠 .NET (Core/MVC/Web API), C#, WCF, WPF
+- 🧠 .NET (Core/MVC/Web API), C#, Python, WCF, WPF
 - 🌐 Angular, React.js, Node.js, TypeScript
 - 🛠️ Solution Architecture & Project Management
 - 🧩 SharePoint (2010–2019), Workflow & Webparts
@@ -68,7 +68,9 @@ I’m a passionate software engineer with over 15 years of experience in designi
 
 ## 🧠 Certifications
 
-- ✅ MCSD: Web Applications / App Builder  
+- ✅ Azure AI Engineer Associate (AI-102)  
+- ✅ MCSD: Azure Data Scientist Associate (DP-100) – 2025  
+- ✅ MCSD: Web Applications & App Builder  
 - ✅ MCPS: Microsoft Certified Professional  
 - ✅ HTML5 with JavaScript and CSS3 (Microsoft Exam)
 
