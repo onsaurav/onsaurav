@@ -1,101 +1,100 @@
-# 👋 Hi, I'm Kartik Chandra Biswas — `@onsaurav`
+<h1 align="center">Hi, I'm Kartik Chandra Biswas 👋</h1>
 
-🎯 **Senior Software Engineer | Cloud Solutions Architect | AI Engineer**
+<h3 align="center">Cloud Solutions Architect · AI Engineer · Senior Software Engineer</h3>
 
-📍 Dhaka, Bangladesh
+<p align="center">
+I design enterprise systems end-to-end and build AI into them — from architecture to production.<br/>
+15+ years · 4× Microsoft Azure certified · Dhaka, Bangladesh 🇧🇩
+</p>
 
----
-
-## 💼 About Me
-
-Senior Software Engineer and Cloud Solutions Architect with **15+ years** architecting and owning enterprise systems end-to-end — defining the architecture, leading delivery, and carrying production accountability at lean, senior-heavy engineering organizations.
-
-Currently building **Project Sentinel**, a multi-agent AI system using RAG, vector search, and LLM orchestration to detect drift between requirements, design, and delivery in real engineering workflows.
-
-- ☁️ Microsoft Certified **Azure Solutions Architect Expert**, **Azure Administrator**, **Azure AI Engineer**, and **Azure Data Scientist**
-- 🧠 Full-stack depth across .NET/C#, Python, Angular, React, Azure, and AWS
-- 🌍 Direct experience serving international clients
-- 👥 Team lead and mentor across nearly two decades of delivery
+<p align="center">
+  <a href="https://kartikbiswas.com"><img src="https://img.shields.io/badge/Portfolio-kartikbiswas.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/onsaurav/"><img src="https://img.shields.io/badge/LinkedIn-onsaurav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:onsaurav@hotmail.com"><img src="https://img.shields.io/badge/Email-onsaurav@hotmail.com-D14836?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email"/></a>
+</p>
 
 ---
 
-## 🚀 Current Focus
+### 🔭 What I'm building now
 
-- 🤖 **Project Sentinel** — eleven coordinated AI agents using Azure OpenAI, Azure AI Search, RAG, and vector embeddings to detect drift between meeting notes, requirements documents, and Azure DevOps tasks, with a human-in-the-loop approval layer
-- 🏗️ Sole architect for an enterprise platform built from zero for international clients — workflow automation, modular architecture, and role-based portals
-- 📄 AI-based notification systems and document intelligence features
-- 🚢 End-to-end delivery pipelines — Azure deployment, CI/CD, Docker, and access-control policy
+**Project Sentinel** — a multi-agent AI system that catches *drift* between what was discussed, what was specified, and what is actually being built.
+
+- 🤖 **11 coordinated agents** compare meeting notes, requirements documents, and Azure DevOps work items
+- 🔎 **RAG + vector search** on Azure OpenAI and Azure AI Search to ground every finding in source evidence
+- 🧑‍⚖️ **Human-in-the-loop** approval layer, so no change reaches the backlog without a reviewer
+
+Alongside it, I'm the architect for an enterprise platform built from zero for international clients, with workflow automation, role-based portals, and AI document intelligence. I also own its full delivery pipeline on Azure.
 
 ---
 
-## 🏆 Highlight Projects
+### 🧭 How I work
 
-| Project | Tech Stack | Role |
+- **I own systems, not tickets.** I define the architecture, review every design decision, and stay accountable for production.
+- **I translate ambiguity into specs.** I work directly with clients, BAs, and PMs to turn business asks into buildable designs.
+- **I build platforms others build on.** That includes an org-wide user management system, a multi-tenant Okta auth platform, and reusable ASP.NET Core frameworks used across teams.
+
+---
+
+### 🏆 Selected work
+
+| | Project | What it shows |
 |---|---|---|
-| **Project Sentinel** (Multi-Agent AI) | Azure OpenAI, Azure AI Search, RAG, Vector Embeddings, Azure DevOps | Architect & Lead Developer |
-| **Enterprise Platform** (International Clients) | .NET, Azure, Docker, CI/CD, AI Document Intelligence | Sole Architect |
-| **Multi-Tenant Authentication Platform** | Okta, ASP.NET Core | Architect |
-| **User Management System** (Org-wide) | SharePoint, C#, AngularJS, SQL Server | Team Lead, Solution Architect |
-| **SharePoint 2010 → 2019 & Azure Migration** | SharePoint, Azure | Migration Owner |
-| **Digital Asset Library** (millions of objects) | AWS S3, CloudFront | Developer |
-| **BrandShare** (Used by Dell) | ASP.NET, Crystal Reports, SharePoint | Team Leader & Lead Developer (20-person team) |
-| **Ration Management System** (Bangladesh Police) | WCF, C#, SQL Server, Crystal Reports | Sole Architect & Developer |
-| **POS / Retail System** | C#, WPF, SQL Server | Sole Architect & Developer |
+| 🤖 | **Project Sentinel** | Multi-agent AI, RAG, LLM orchestration, human-in-the-loop design |
+| 🔐 | **Multi-Tenant Authentication Platform** (Okta) | Built the auth layer other teams integrated against instead of rolling their own |
+| ☁️ | **SharePoint 2010 → 2019 & Azure Migration** | Multi-year modernization, delivered alongside ongoing feature work |
+| 📦 | **Digital Asset Library** (AWS S3 + CloudFront) | Secure storage and delivery at millions-of-objects scale |
+| 📣 | **BrandShare** (enterprise clients incl. Dell) | Led a 20-person team as team leader and lead developer |
 
-➡️ More projects in my [repositories](https://github.com/onsaurav?tab=repositories)
+<details>
+<summary><b>Earlier work</b></summary>
+<br/>
 
----
+- **Ration Management System** for Bangladesh Police: sole architect and developer (WCF, C#, SQL Server)
+- **POS / Retail System**: full ownership from database design to deployment (C#, WPF)
+- **Organization-wide User Management System**, replacing fragmented per-project access control (SharePoint, C#, AngularJS)
 
-## 🛠 Tech Stack
-
-**AI Engineering:**
-`Azure OpenAI` `RAG` `Vector Embeddings` `LangChain` `Multi-Agent Systems` `Azure AI Search` `Cognitive Services` `Prompt Engineering` `Human-in-the-Loop Design`
-
-**Machine Learning:**
-`Azure Machine Learning` `Scikit-learn` `Pandas` `Transformers`
-
-**Cloud & Architecture:**
-`Azure (App Services, ML, Functions, Key Vault, Monitor)` `AWS (S3, CloudFront, Lambda)` `Microservices` `Clean Architecture` `Domain-Driven Design` `REST` `WCF`
-
-**Languages:**
-`C#` `Python` `JavaScript` `TypeScript` `VB.NET` `Java`
-
-**Frameworks & Frontend:**
-`.NET / ASP.NET Core` `Node.js` `Angular` `React.js` `Next.js`
-
-**DevOps & Infrastructure:**
-`Azure DevOps` `GitHub Actions` `Docker` `Kubernetes` `CI/CD Pipelines`
-
-**Data Platforms:**
-`SQL Server` `PostgreSQL` `MySQL` `MongoDB` `Cosmos DB`
-
-**Process & Collaboration:**
-`Agile (Scrum/Kanban)` `Azure DevOps Boards` `JIRA` `Confluence`
+</details>
 
 ---
 
-## 🧠 Certifications
+### 🛠 Tech stack
 
-- ✅ Microsoft Certified: **Azure Solutions Architect Expert** (AZ-305)
-- ✅ Microsoft Certified: **Azure Administrator Associate** (AZ-104)
-- ✅ Microsoft Certified: **Azure AI Engineer Associate** (AI-102)
-- ✅ Microsoft Certified: **Azure Data Scientist Associate** (DP-100)
-- ✅ MCSD: Web Applications
-- ✅ MCSD: App Builder
-- ✅ Microsoft Certified Professional (MCPS)
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,py,ts,js,java&theme=dark" alt="Languages"/><br/>
+  <img src="https://skillicons.dev/icons?i=angular,react,nextjs,nodejs&theme=dark" alt="Frameworks"/><br/>
+  <img src="https://skillicons.dev/icons?i=azure,aws,docker,kubernetes,githubactions&theme=dark" alt="Cloud and DevOps"/><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" alt="Databases"/>
+</p>
 
----
-
-
----
-
-## 🤝 Let's Connect
-
-- 🌐 Website: [kartikbiswas.com](https://kartikbiswas.com)
-- 💼 LinkedIn: [linkedin.com/in/onsaurav](https://www.linkedin.com/in/onsaurav/)
-- 🐙 GitHub: [github.com/onsaurav](https://github.com/onsaurav)
-- 📧 Email: onsaurav@hotmail.com
+**AI & ML:** Azure OpenAI · RAG · Vector Embeddings · LangChain · Multi-Agent Systems · Azure AI Search · Azure Machine Learning · Scikit-learn · Transformers
+**Architecture:** Microservices · Clean Architecture · Domain-Driven Design · REST
+**Also:** SQL Server · Cosmos DB · Azure DevOps · Azure Functions · Key Vault · AWS Lambda
 
 ---
 
-> "Architecting intelligent, cloud-native systems — from requirements to production."
+### 🎖 Certifications
+
+<p>
+  <img src="https://img.shields.io/badge/AZ--305-Azure_Solutions_Architect_Expert-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="AZ-305"/>
+  <img src="https://img.shields.io/badge/AZ--104-Azure_Administrator-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="AZ-104"/>
+  <img src="https://img.shields.io/badge/AI--102-Azure_AI_Engineer-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="AI-102"/>
+  <img src="https://img.shields.io/badge/DP--100-Azure_Data_Scientist-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="DP-100"/>
+</p>
+
+Also: MCSD Web Applications · MCSD App Builder · MCP
+
+---
+
+### 📊 GitHub activity
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=onsaurav&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onsaurav&layout=compact&hide_border=true&theme=transparent" alt="Top languages"/>
+</p>
+
+---
+
+### 🤝 Let's talk
+
+I'm open to **Solution / Principal Architect roles**, **AI system design consulting**, and conversations about building with LLMs in production.
+Best way to reach me: **[onsaurav@hotmail.com](mailto:onsaurav@hotmail.com)** or **[LinkedIn](https://www.linkedin.com/in/onsaurav/)**.
