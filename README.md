@@ -59,12 +59,32 @@ Alongside it, I'm the architect for an enterprise platform built from zero for i
 
 ### 🛠 Tech stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,py,ts,js,java&theme=dark" alt="Languages"/>
-  <img src="https://skillicons.dev/icons?i=angular,react,nextjs,nodejs&theme=dark" alt="Frameworks"/>
-  <img src="https://skillicons.dev/icons?i=azure,aws,docker,kubernetes,githubactions&theme=dark" alt="Cloud and DevOps"/>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark" alt="Databases"/>
-</p>
+<table align="center">
+  <tr>
+    <td align="right"><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=cs,dotnet,py,ts,js,java&theme=dark" alt="C#, .NET, Python, TypeScript, JavaScript, Java"/></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Web</b></td>
+    <td><img src="https://skillicons.dev/icons?i=angular,react,nextjs,nodejs&theme=dark" alt="Angular, React, Next.js, Node.js"/></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Cloud & DevOps</b></td>
+    <td><img src="https://skillicons.dev/icons?i=azure,aws,docker,kubernetes,githubactions,terraform&theme=dark" alt="Azure, AWS, Docker, Kubernetes, GitHub Actions, Terraform"/></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Data, ML & Messaging</b></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,rabbitmq,sklearn&theme=dark" alt="PostgreSQL, MySQL, MongoDB, Redis, RabbitMQ, Scikit-learn"/></td>
+  </tr>
+  <tr>
+    <td align="right"><b>Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,postman&theme=dark" alt="Git, GitHub, Visual Studio, VS Code, Postman"/></td>
+  </tr>
+</table>
+
+<details>
+<summary><b>🏗️ Full architecture toolkit — styles, patterns, platforms & tools</b></summary>
+<br/>
 
 | Area | What I use |
 |---|---|
@@ -85,6 +105,8 @@ Alongside it, I'm the architect for an enterprise platform built from zero for i
 | 📐 **Design & Docs** | C4 Model · UML · Architecture Decision Records (ADRs) · draw.io · Azure Well-Architected Framework |
 | 🗂️ **Delivery** | Agile (Scrum / Kanban) · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" height="18" alt="azuredevops"/> Azure Boards · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" height="18" alt="jira"/> JIRA · <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-original.svg" height="18" alt="confluence"/> Confluence |
 
+</details>
+
 ---
 
 ### 🎖 Certifications
@@ -97,15 +119,6 @@ Alongside it, I'm the architect for an enterprise platform built from zero for i
 </p>
 
 Also: MCSD Web Applications · MCSD App Builder · MCP
-
----
-
-### 📊 GitHub activity
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=onsaurav&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onsaurav&layout=compact&hide_border=true&theme=transparent" alt="Top languages"/>
-</p>
 
 ---
 
