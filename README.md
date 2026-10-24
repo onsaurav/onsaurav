@@ -86,17 +86,6 @@ Currently building **Project Sentinel**, a multi-agent AI system using RAG, vect
 
 ---
 
-## 📈 Career Journey
-
-| Period | Role | Organization |
-|---|---|---|
-| Mar 2024 – Present | Senior Software Engineer | IT Magnet |
-| Sep 2014 – Feb 2024 | Senior Software Engineer | SoftwarePeople \| Wunderman Thompson |
-| Jan 2012 – Aug 2014 | Senior Lead Software Engineer / Assistant Manager | The Databiz Software Limited |
-| Jun 2008 – Dec 2011 | Software Engineer | The Databiz Software Limited |
-
-🎓 **M.Sc. in Computer Science** — Jahangirnagar University (2014)
-🎓 **B.Sc. (Hons) in Computer Science & Engineering** — State University of Bangladesh (2008)
 
 ---
 
