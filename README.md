@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kartik Chandra Biswas — `@onsaurav`
 
-🎯 **Senior Software Engineer | Cloud Solutions Architect | AI Engineer** (Architecting intelligent, cloud-native systems — from requirements to production)
+🎯 **Senior Software Engineer | Cloud Solutions Architect | AI Engineer**
 
 📍 Dhaka, Bangladesh
 
